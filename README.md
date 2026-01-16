@@ -4,11 +4,15 @@ Calculador de Churrasco é uma aplicação web simples que calcula a quantidade 
 
 📌 Funcionalidades
 
-✔ Calcula a quantidade de carne necessária
-✔ Calcula a quantidade de frango, linguiça ou outros itens (conforme implementação)
-✔ Calcula a quantidade de bebidas
-✔ Interface amigável e intuitiva
-✔ Feito com tecnologias web (HTML, CSS e JavaScript)
+✔ Calcula a quantidade de carne necessária.
+
+✔ Calcula a quantidade de frango, linguiça ou outros itens (conforme implementação).
+
+✔ Calcula a quantidade de bebidas.
+
+✔ Interface amigável e intuitiva.
+
+✔ Feito com tecnologias web (HTML, CSS e JavaScript).
 
 Este projeto foi desenvolvido para fins de estudo e como ferramenta prática para churrascos. 🍻
 
