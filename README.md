@@ -35,6 +35,8 @@ Esses cálculos podem ser ajustados conforme necessidade (por exemplo, considera
 
 O projeto foi construído com:
 
-🔹 HTML — Estrutura da página
-🔹 CSS — Estilização e layout
-🔹 JavaScript — Lógica de cálculo interativa
+🔹 HTML — Estrutura da página.
+
+🔹 CSS — Estilização e layout.
+
+🔹 JavaScript — Lógica de cálculo interativa.
