@@ -33,7 +33,7 @@ LocalStorage API
 
 ## 📸 Preview
 
-(adicionar print aqui)
+
 
 ---
 
