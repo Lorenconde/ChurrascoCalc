@@ -50,7 +50,7 @@ index.html
 
 Clone:
 
-git clone https://github.com/seuusuario/churrasco-calc
+git clone https://github.com/Lorenconde/churrasco-calc
 Abrir:
 index.html
 
