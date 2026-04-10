@@ -1,34 +1,54 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Calculadora de Churrasco</title>
-    <script src="js/script.js" defer></script>
-    <link rel="stylesheet" href="css/styles.css">
-    
-
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ChurrascoCalc</title>
+<link rel="stylesheet" href="assets/css/styles.css">
 </head>
-<body>
-    <div class="container">
-        <h1>Calculadora de Churrasco</h1>
-        <form id="churrascoForm">
-            <div class="input-group">
-                <label for="homens">Homens:</label>
-                <input type="number" id="homens" name="homens">
-            </div>
-            <div class="input-group">
-                <label for="mulheres">Mulheres:</label>
-                <input type="number" id="mulheres" name="mulheres">
-            </div>
-            <div class="input-group">
-                <label for="criancas">Crianças:</label>
-                <input type="number" id="criancas" name="criancas">
-            </div>
-            <button type="button" onclick="calcular()">Calcular</button>
-        </form>
-        <div id="resultado"></div>
-    </div>
 
-   </body>
+<body>
+
+<main class="container">
+ <header class="header">
+  <h1>🔥 ChurrascoCalc</h1>
+  <button id="toggleTema">🌙 Alternar tema</button>
+
+</header>
+
+<section class="form-area">
+
+ <div class="input-group">
+ <label>Adultos</label>
+ <input type="number" id="adultos" placeholder="Digite quantidade"></br>
+ </div>
+
+<div class="input-group">
+ <label>Crianças</label>
+ <input type="number" id="criancas" placeholder="Digite quantidade"></br>
+</div>
+
+<h2>Selecione as carnes</h2></br>
+
+<div class="checkbox-group">
+ <label><input type="checkbox" value="Picanha" checked>Picanha</label>
+ <label><input type="checkbox" value="Linguiça" checked>Linguiça</label>
+ <label><input type="checkbox" value="Frango">Frango</label>
+ <label><input type="checkbox" value="Costela">Costela</label></br>
+</div>
+
+<button id="btnCalcular">Calcular churrasco</button>
+<button id="btnSalvar">Salvar lista</button>
+
+</section>
+
+
+<section id="resultado">
+   Resultado aparecerá aqui
+</section>
+
+</main>
+ <script src="assets/js/script.js"></script>
+
+</body>
 </html>
