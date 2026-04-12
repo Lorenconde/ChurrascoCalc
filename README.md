@@ -32,7 +32,10 @@ LocalStorage API
 ---
 
 ## 📸 Preview
-
+![Preview do projeto](assets/img/churrasco1.png)
+![Preview do projeto](assets/img/churrasco2.png)
+![Preview do projeto](assets/img/churrasco3.png)
+![Preview do projeto](assets/img/churrasco3.png)
 
 
 ---
