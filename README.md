@@ -1,42 +1,74 @@
-🥩 Calculador de Churrasco
+# 🔥 ChurrascoCalc 
 
-Calculador de Churrasco é uma aplicação web simples que calcula a quantidade de alimentos e bebidas necessários para um churrasco, com base no número de pessoas convidadas (por exemplo: homens, mulheres e crianças). O objetivo do projeto é facilitar o planejamento e evitar desperdícios.
+Aplicação web inteligente para planejamento de churrascos.
 
-📌 Funcionalidades
+Calcula automaticamente:
+- quantidade de carnes
+- bebidas
+- carvão
+- refrigerante
 
-✔ Calcula a quantidade de carne necessária.
+com base no número de participantes e tipos de carne selecionados.
 
-✔ Calcula a quantidade de frango, linguiça ou outros itens (conforme implementação).
+---
 
-✔ Calcula a quantidade de bebidas.
+## 🚀 Tecnologias
 
-✔ Interface amigável e intuitiva.
+HTML5  
+CSS3  
+JavaScript  
+LocalStorage API  
 
-✔ Feito com tecnologias web (HTML, CSS e JavaScript).
+---
 
-Este projeto foi desenvolvido para fins de estudo e como ferramenta prática para churrascos. 🍻
+## 📊 Funcionalidades
 
-💡 Como funciona
+✔ cálculo automático  
+✔ seleção de carnes  
+✔ lista dinâmica  
+✔ salvar cálculo  
+✔ layout moderno  
 
-O usuário insere:
+---
 
-- Número de homens
-- Número de mulheres
-- Número de crianças
+## 📸 Preview
 
-Depois, a aplicação calcula automaticamente:
 
-- Quantidade total de alimentos
-- Quantidade de bebidas
 
-Esses cálculos podem ser ajustados conforme necessidade (por exemplo, considerar consumo maior ou menor de acordo com o tempo de evento).
+---
 
-💻 Tecnologias Utilizadas
+## 📁 Estrutura
 
-O projeto foi construído com:
+assets
+css/style.css
+js/script.js
+index.html
 
-🔹 HTML — Estrutura da página.
+---
+
+## ▶️ Executar projeto
+
+Clone:
+
+git clone https://github.com/Lorenconde/churrasco-calc
+Abrir:
+index.html
+
+---
+
+## 💡 Melhorias futuras
+
+modo premium churrasco completo
+exportar PDF
+modo festa grande
+modo vegetariano
+versão mobile app
+
+---
+
+## 👩‍💻 Desenvolvido por
+
+Loren Conde
 
 🔹 CSS — Estilização e layout.
-
 🔹 JavaScript — Lógica de cálculo interativa.
